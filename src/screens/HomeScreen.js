@@ -3,6 +3,7 @@ import HeaderComponent from '../components/HeaderComponent'
 import FooterComponent from '../components/FooterComponent'
 import SearchComponent from '../components/SearchComponent'
 import CategoryComponent from '../components/CategoryComponent'
+import CardComponent from './CardComponent'
 
 const HomeScreen = () => {
   return (
@@ -26,9 +27,9 @@ const HomeScreen = () => {
               </p>
           </div>
         </div>
-        <h1>
-            Home Screen
-        </h1>
+        
+        
+        <CardComponent/>
 
         <FooterComponent />
     </div>
