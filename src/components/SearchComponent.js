@@ -4,7 +4,7 @@ const SearchComponent = () => {
   return (
     <div className="container mx-auto p-4">
       <div className="flex items-center justify-between py-4 border-b">
-        <h1 className="text-2xl font-bold text-gray-800">Creative Fabrica</h1>
+        <h1 className="text-2xl font-bold text-gray-800 whitespace-nowrap mx-4">Creative Fabrica</h1>
 
         <div className="flex items-center border border-gray-300 rounded-lg overflow-hidden">
           <input
