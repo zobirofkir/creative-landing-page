@@ -51,7 +51,7 @@ const FooterComponent = () => {
               className="p-2 rounded-l-md bg-gray-700 text-white border-none focus:ring-2 focus:ring-gray-600"
             />
             <button className="p-2 bg-blue-500 text-white rounded-r-md hover:bg-blue-600">Subscribe</button>
-          </div>
+          </div> 
         </div>
       </div>
 
